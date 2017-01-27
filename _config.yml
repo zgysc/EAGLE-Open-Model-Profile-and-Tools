@@ -1,0 +1,8 @@
+title: Eagle-open-model-profile-and-tools
+description: "Project EAGLE: OpenSourceSDN Repository for UML-YANG Mapping & Tooling"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
